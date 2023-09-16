@@ -1,12 +1,12 @@
 # Terraform Beginner Bootcamp 2023
 
 
-### Semantic Versioning
+### Semantic Versioning :brain:
 
 This project is going utilize semantic versioning for its tagging.
 [] (https://semver..org/)
 
-The general format will be this:
+The general format will be this:--
  **MAJOR.MINOR.PATCH**, e.g 1.0.1 
 
 
